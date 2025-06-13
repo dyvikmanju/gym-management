@@ -1,0 +1,38 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+*.egg
+*.dist-info/
+
+# Virtual environment
+venv/
+.venv/
+env10/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE-specific
+.idea/
+*.vscode/
+*.pyproj
+
+# Build and distribution
+build/
+dist/
+*.whl
+MANIFEST
+
+# Configuration
+*.ini
+*.cfg
+*.env
+
+# Log files
+*.log
+*.out
